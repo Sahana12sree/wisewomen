@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687551063532",
+    "project_id": "wise-women",
+    "storage_bucket": "wise-women.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687551063532:android:f198a9bea668e8c815ccc9",
+        "android_client_info": {
+          "package_name": "com.dan.wisewomen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687551063532-80tei32c0h33k343l9mur4b8ttcqb5i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTLWwIajxUgr1Xcu9nRoo9wVnnb0pqV1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687551063532-80tei32c0h33k343l9mur4b8ttcqb5i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
